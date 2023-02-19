@@ -1,4 +1,4 @@
-# -DanHachuel.github.io
+# DanHachuel.github.io
 
 <div align="center">
     <img src="Foto_Github.png" alt="hello_world" width="220px"; height="220px"; style="border-radius: 40px";> 
