@@ -31,7 +31,7 @@
   <a href="https://t.me/DanHachuel"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white" /></a> 
   <a href="mailto: dan.hachuel@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>    
 </div>
-<br/><br/>
+<br/>
 
 <h2 align="left"> Tecnologias: <br/><br/>
 
