@@ -1,5 +1,7 @@
 <html>
  #DanHachuel.github.io
+ 
+  <br></br>
   
 <h2><b>
    Sobre min:   Profissional de Dados/Redes experimentado em tecnologias DevOps, virtualização de ambientes, front e back-end com C, C++, Javascript, Ruby e   
