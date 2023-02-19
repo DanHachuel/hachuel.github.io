@@ -1,9 +1,6 @@
 <html>
-  <head>
  #DanHachuel.github.io
   
-      </head>
-    
 <h2><b>
    Sobre min:   Profissional de Dados/Redes experimentado em tecnologias DevOps, virtualização de ambientes, front e back-end com C, C++, Javascript, Ruby e   
    Python, marcação com Html, Css, Metodologia Scrum, criação e manutenção de pipelines e automatização de entregas, BDs SQL/MySQL, Business Inteligence, Analytics, 
