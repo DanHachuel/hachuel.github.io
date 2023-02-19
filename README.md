@@ -1,27 +1,7 @@
-#DanHachuel.github.io
-
 <html>
   <head>
-    <title>Index</title>
+    <title> #DanHachuel.github.io </title>
   
-
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FRHQQBBLJR"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-FRHQQBBLJR');
-</script>
-
-
-<div align="center">
-    <img src="Index.html/Foto_Github.png" alt="hello_world" width="220px"; height="220px"; style="border-radius: 40px";> 
-</div> 
-
-    </head>
     
     
 <h2><b>
