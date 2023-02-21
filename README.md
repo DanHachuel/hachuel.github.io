@@ -1,15 +1,24 @@
-# -DanHachuel.github.io
-
-<div align="center">
-    <img src="Foto_Github.png" alt="hello_world" width="220px"; height="220px"; style="border-radius: 40px";> 
-</div> 
-    
+<html>
+ #DanHachuel.github.io
+ <br>
+  
 <h2><b>
-   Sobre min:  </h2> Profissional de Dados/Redes experimentado em tecnologias DevOps, virtualização de ambientes, front e back-end com C, C++, Javascript, Ruby e   
-   Python, marcação com Html, Css, Metodologia Scrum, criação e manutenção de pipelines e automatização de entregas, BDs SQL/MySQL, Business Inteligence, Analytics, 
-   Virtuaização de Ambientes de rede, tecnologias disruptivas, experiencia em Clouds AWS, GCP e  Azure, CI/CD, Kubernetes, Terraform, Jenkins e etc. 
-   </b> </h2>   :octocat:
-  <br></br>       
+   
+ 
+ About me: Data/Networking professional experienced in DevOps technologies, virtualization of environments, front and back-end with C, C++, Javascript, Ruby and 
+ Python, markup with Html, CSS, Scrum Methodology, creation and maintenance of pipelines and automation of deliveries, DBs SQL/MySQL, Business Intelligence, Analytics, 
+ Virtualization of Network Environments, disruptive technologies, experience in Clouds AWS, GCP and Azure, CI/CD, Kubernetes, Terraform, Jenkins and etc. <br/>
+ 
+ עליי: איש מקצוע בתחום ה-Data/Networking מנוסה בטכנולוגיות DevOps, וירטואליזציה של סביבות, Front ו-back-end עם C, C++, Javascript, Ruby ו-Python, סימון עם HTML, 
+ CSS, מתודולוגיית Scrum, יצירה ותחזוקה של צינורות ואוטומציה של משלוחים , DBs SQL/MySQL, בינה עסקית, אנליטיקס, וירטואליזציה של סביבות רשת, טכנולוגיות משבשות
+ ניסיון בענן AWS, GCP ו-Azure, CI/CD, Kubernetes, Terraform, Jenkins וכו'. <br/>
+ 
+ Sobre min: Profissional de Dados/Redes experimentado em tecnologias DevOps, virtualização de ambientes, front e back-end com C, C++, Javascript, Ruby e   
+ Python, marcação com Html, Css, Metodologia Scrum, criação e manutenção de pipelines e automatização de entregas, BDs SQL/MySQL, Business Inteligence, Analytics, 
+ Virtuaização de Ambientes de rede, tecnologias disruptivas, experiencia em Clouds AWS, GCP e  Azure, CI/CD, Kubernetes, Terraform, Jenkins e etc.  <br/>
+ 
+ 
+  <br> <br>   
   
    <div align="center">
   
@@ -21,7 +30,8 @@
   <a href="https://discord.com/users/Danhachuel#0440"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
   <a href="https://t.me/DanHachuel"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white" /></a> 
   <a href="mailto: dan.hachuel@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>    
-</h2></div>
+</div>
+<br/>
 
 <h2 align="left"> Tecnologias: <br/><br/>
 
@@ -48,4 +58,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="40" height="40"/>          
     
-   </h2>  
+ 
