@@ -18,7 +18,7 @@
  Virtuaização de Ambientes de rede, tecnologias disruptivas, experiencia em Clouds AWS, GCP e  Azure, CI/CD, Kubernetes, Terraform, Jenkins e etc.  <br/>
  
  
-  <br><br>   
+  <br> <br>   
   
    <div align="center">
   
